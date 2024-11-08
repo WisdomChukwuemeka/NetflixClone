@@ -1,0 +1,12 @@
+@media(max-width: 720px){
+   body{
+      background-color: red;
+   }
+}
+
+@media(max-width: 480px) {
+ body{
+    background-color: pink;
+ }
+}
+
